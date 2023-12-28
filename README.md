@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on a new model of Trojan for Anti-Terrorism Associations
 - 🌱 I'm writing a Scientific Paper about Malware Development at University of Salerno
-- 📫 How to reach me: carlo.colizzi@gmail.com
 - ⚡ Fun fact: I want bring innovation in Cyber Security field, I love it
 
 <!--
@@ -15,5 +14,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 📫 How to reach me: carlo.colizzi@gmail.com
 - 😄 Pronouns: ...
 -->
