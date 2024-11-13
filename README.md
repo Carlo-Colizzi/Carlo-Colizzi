@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a new model of Trojan for Anti-Terrorism Associations
-- 🌱 I'm writing a Scientific Paper about Malware Analysis at University of Salerno
+- 🌱 I'm writing a Scientific Paper about Malware Detection at University of Salerno
 - ⚡ Fun fact: I want bring innovation in Cyber Security field, I love it
 
 <!--
