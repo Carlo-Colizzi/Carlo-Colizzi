@@ -1,4 +1,4 @@
-### Hi 👋, I'm Carlo Colizzi, a master's student of Cyber Security
+### Hi 👋, I'm Carlo Colizzi, a Cyber Security Researcher
 
 
 - 🔭 I’m currently working on a new model of Trojan for Anti-Terrorism Associations
